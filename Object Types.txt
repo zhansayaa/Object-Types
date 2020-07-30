@@ -1,0 +1,6 @@
+In order to accomplish this laboratory work provide your own examples to 
+1. Find out how Object Types can be used (explanation and example)
+Use Object Types with a CURSOR FOR LOOP
+Use Object Types with COLLECTIONS
+Objects is populated using the BULK SELECT INTO statement. 
+2.  Add to the created object type user-defined construction that populates object type attributes 
